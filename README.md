@@ -40,7 +40,6 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 ### Clone the Repository
 ```sh
 git clone [https://github.com/amanch15/MERN-Food-Delivery.git]
-git clone 
 cd mern-food-delivery-app
 ```
 
